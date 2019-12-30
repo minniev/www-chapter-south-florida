@@ -413,7 +413,7 @@ entire application portfolio, allowingall the stakeholders in security
 to collaborate and finally become proactive.
 
 [Media:
-2014-10_OWASP_SF_Continuous.pdf](Media:_2014-10_OWASP_SF_Continuous.pdf "wikilink")
+2014-10_OWASP_SF_Continuous.pdf](/www-pdf-archive/_2014-10_OWASP_SF_Continuous.pdf )
 
 *Bio: Jeff Williams* Jeff Williams is a founder and CEO of Aspect
 Security and recently launched Contrast Security, a new approach to
@@ -543,7 +543,7 @@ Computer Science from the University of Washington and holds three
 degrees from MIT. He is the author of more than 40 articles on security
 and software engineering.
 
-[Media:Vanhilst_owasp_140319.pdf](Media:Vanhilst_owasp_140319.pdf "wikilink")
+[/www-pdf-archive/Vanhilst_owasp_140319.pdf](/www-pdf-archive/Vanhilst_owasp_140319.pdf )
 
 *Talk 2: Secure by Design*
 
@@ -574,7 +574,7 @@ several books and publications including Java Security and IEEE Security
 and Privacy. She has also presented at various industry events including
 Black Hat and OWASP FROC.
 
-[Media:Sulatycki_Secure-By-Design_140319.pdf](Media:Sulatycki_Secure-By-Design_140319.pdf "wikilink")
+[/www-pdf-archive/Sulatycki_Secure-By-Design_140319.pdf](/www-pdf-archive/Sulatycki_Secure-By-Design_140319.pdf )
 
 Facility Location:
 
@@ -687,7 +687,7 @@ Computer Science from UCLA. He is a Senior Member of the IEEE, and a
 Member of ACM. He is an active consultant for industry. More details:
 <http://www.cse.fau.edu/~ed>
 
-[Media:SecResearchOWASP7-2013.pdf](Media:SecResearchOWASP7-2013.pdf "wikilink")
+[/www-pdf-archive/SecResearchOWASP7-2013.pdf](/www-pdf-archive/SecResearchOWASP7-2013.pdf )
 
 Facility Location:
 
@@ -1103,7 +1103,7 @@ WhiteHat Security, a web security firm. Jim is a participant and project
 manager of the OWASP Developer Cheatsheet series. He is also the
 producer and host of the OWASP Podcast Series.
 
-[Media:OWASP_April_2012.pdf](Media:OWASP_April_2012.pdf "wikilink")
+[/www-pdf-archive/OWASP_April_2012.pdf](/www-pdf-archive/OWASP_April_2012.pdf )
 
 *Talk 2:Holiday Downtime, It wasn't just you\!*
 
@@ -1144,7 +1144,7 @@ next generation solutions for mobile device security. He is the author
 of 18 provisional patents related to mobile authentication and fraud
 detection. He founded SMobile, Inc. which sold to Juniper in 2010.
 
-[Media:OWASP_mobile_Nov_2011.pdf](Media:OWASP_mobile_Nov_2011.pdf "wikilink")
+[/www-pdf-archive/OWASP_mobile_Nov_2011.pdf](/www-pdf-archive/OWASP_mobile_Nov_2011.pdf )
 
 Facility Location: NOVA SOUTHEASTERN UNIVERSITY Carl DeSantis Building,
 Main Davie Campus Room 1124 3301 College Ave Fort Lauderdale, FL
@@ -1191,7 +1191,7 @@ several books and publications including Java Security and IEEE Security
 and Privacy. She has also presented at various industry events including
 Black Hat and OWASP FROC on topics such as Web application security,
 Ajax security concerns and Flash application security.
-[1](https://www.owasp.org/images/1/16/Secure_Application_Development.pdf)
+[1](/www-pdf-archive/Secure_Application_Development.pdf)
 
 Facility Location: NOVA SOUTHEASTERN UNIVERSITY Carl DeSantis Building,
 Main Davie Campus Room 1124 3301 College Ave Fort Lauderdale, FL
@@ -1570,7 +1570,7 @@ Systems Security with Enterprise Risk Management, Inc. Enterprise Risk
 Management, Inc, found in Miami FL in 1998, offers a wide variety of
 information security and information systems audit services to local,
 national (Fortune 500) and international businesses.
-[Media:South_Florida_OWASP_May_2010_Card_Skimming_Demo.pdf](Media:South_Florida_OWASP_May_2010_Card_Skimming_Demo.pdf "wikilink")
+[/www-pdf-archive/South_Florida_OWASP_May_2010_Card_Skimming_Demo.pdf](/www-pdf-archive/South_Florida_OWASP_May_2010_Card_Skimming_Demo.pdf )
 **Wed. April 28th, 2010 - 6pm - South Florida OWASP Meeting**
 
 Facility Location:
@@ -1682,7 +1682,7 @@ specializing in attack and penetration advisory services. He manages and
 executes assessments of web applications, external, internal and
 wireless networks, as well as physical security and social
 engineering.
-[Media:South_Florida_OWASP_Adobe_ASC_Demo.pdf](Media:South_Florida_OWASP_Adobe_ASC_Demo.pdf "wikilink")
+[/www-pdf-archive/South_Florida_OWASP_Adobe_ASC_Demo.pdf](/www-pdf-archive/South_Florida_OWASP_Adobe_ASC_Demo.pdf )
 
 **Wed. Jan 27th, 2010 - 6pm- South Florida OWASP Meeting**
 Facility Location:
@@ -1695,7 +1695,7 @@ Phone: 800-541-NOVA (6682)
 This meeting's presentation is "Zeus & You: Analysis of the
 underground's most popular trojan" by Alexander Heid and Fabian
 Rothschild.
-[Media:OWASP_miami_Zeus_and_You_01-2010.pdf](Media:OWASP_miami_Zeus_and_You_01-2010.pdf "wikilink")
+[/www-pdf-archive/OWASP_miami_Zeus_and_You_01-2010.pdf](/www-pdf-archive/OWASP_miami_Zeus_and_You_01-2010.pdf )
 
 **Wed. Oct. 7th, 2009 6PM - South Florida OWASP Meeting**
 
@@ -1726,8 +1726,8 @@ This meeting's presentation is "Security in .NET Applications &
 Integrating Security in the Software Development Lifecycle" by Jon Arce.
 This is a joint meeting that has been arranged graciously by the local
 ISSA chapter (www.sfissa.org).
-[Media:OWASP_miami_Integrating_Security_in_App_Dev_v1_1-2009_08.pptx](Media:OWASP_miami_Integrating_Security_in_App_Dev_v1_1-2009_08.pptx "wikilink")
-[Media:OWASP_miami_App_Security_Using_dotNET_Framework_v1_0-2009_08.pptx](Media:OWASP_miami_App_Security_Using_dotNET_Framework_v1_0-2009_08.pptx "wikilink")
+[Media:OWASP_miami_Integrating_Security_in_App_Dev_v1_1-2009_08.pptx](Media:OWASP_miami_Integrating_Security_in_App_Dev_v1_1-2009_08.pptx )
+[Media:OWASP_miami_App_Security_Using_dotNET_Framework_v1_0-2009_08.pptx](Media:OWASP_miami_App_Security_Using_dotNET_Framework_v1_0-2009_08.pptx )
 
 
 -----
@@ -1742,7 +1742,7 @@ Phone: (954) 788-7110
 
 This meeting's presentation is "Risk Rating Models for Vulnerabilities"
 by Rishikesh Pande.
-[Media:OWASP_miami_Risk_Modeling_v2-2009_06.pdf](Media:OWASP_miami_Risk_Modeling_v2-2009_06.pdf "wikilink")
+[/www-pdf-archive/OWASP_miami_Risk_Modeling_v2-2009_06.pdf](/www-pdf-archive/OWASP_miami_Risk_Modeling_v2-2009_06.pdf )
 
 
 -----
@@ -1759,7 +1759,7 @@ This meeting's presentation is "Memory Corruption and Buffer Overflows"
 by Dave Aitel. Dave presented on this topic during the OWASP NYC AppSec
 2008 Conference. The presentation will also include some web application
 content based on Immunity's recent project experiences.
-[Media:OWASP_miami_Corruption-2009_04.pdf](Media:OWASP_miami_Corruption-2009_04.pdf "wikilink")
+[/www-pdf-archive/OWASP_miami_Corruption-2009_04.pdf](/www-pdf-archive/OWASP_miami_Corruption-2009_04.pdf )
 
 
 -----
@@ -1774,7 +1774,7 @@ Phone: (954) 788-7110
 
 This meeting's presentation is "An Architect's view of Application
 Security" by Rick Carlin.
-[Media:OWASP_miami_Architect%E2%80%99s_View_of_Application_Security-2009_02.ppt](Media:OWASP_miami_Architect’s_View_of_Application_Security-2009_02.ppt "wikilink")
+[Media:OWASP_miami_Architect%E2%80%99s_View_of_Application_Security-2009_02.ppt](Media:OWASP_miami_Architect’s_View_of_Application_Security-2009_02.ppt )
 
 
 -----
@@ -1790,6 +1790,6 @@ Phone: (954) 788-7110
 This meeting's presentation is a live web hacking demo by Dan Carcone.
 
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:United States](Category:United_States "wikilink")
-[Category:Florida](Category:Florida "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:United States](Category:United_States )
+[Category:Florida](Category:Florida )
