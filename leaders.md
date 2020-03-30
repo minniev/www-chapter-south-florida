@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Rohini Sulatycki](mailto:)
+* [Rohini Sulatycki](mailto:rohini.sulatycki@gmail.com)
